@@ -2,7 +2,7 @@
 
 Enterprise-grade Generative AI architecture for document processing, analysis, and knowledge extraction.
 
-## <× Architecture Overview
+## ğŸ“‹ Architecture Overview
 
 This system demonstrates enterprise AI patterns through a practical document processing pipeline that includes:
 
@@ -12,7 +12,7 @@ This system demonstrates enterprise AI patterns through a practical document pro
 - **Enterprise Integration**: AWS cloud services and security
 - **Governance Framework**: Responsible AI and compliance
 
-## =€ Quick Start
+## ğŸš€ Quick Start
 
 ```bash
 # Clone and setup
@@ -31,14 +31,14 @@ npm run dev
 
 Access the application at `http://localhost:3000`
 
-## =Ë Prerequisites
+## ğŸ“‹ Prerequisites
 
 - Node.js 18+
 - AWS Account with configured credentials
 - Docker (for local vector database)
 - Terraform (for infrastructure)
 
-## =à Technology Stack
+## ğŸ’» Technology Stack
 
 - **Runtime**: Node.js, TypeScript
 - **Framework**: Express.js, React
@@ -48,7 +48,7 @@ Access the application at `http://localhost:3000`
 - **Monitoring**: CloudWatch, DataDog
 - **Security**: AWS IAM, encryption at rest/transit
 
-## =Ú Documentation
+## ğŸ“š Documentation
 
 - [Setup Guide](docs/setup.md)
 - [Architecture Decision Records](docs/adr/)
@@ -56,18 +56,18 @@ Access the application at `http://localhost:3000`
 - [Deployment Guide](docs/deployment.md)
 - [Troubleshooting](docs/troubleshooting.md)
 
-## <¯ Learning Objectives
+## ğŸ¯ Learning Objectives
 
 This project covers essential enterprise AI architecture skills:
 
--  Generative AI design patterns and solution blueprints
--  AWS cloud services integration (Bedrock, SageMaker, Lambda)
--  MCP protocol implementation for agentic systems
--  Model selection and orchestration frameworks
--  System integration, APIs, and data pipelines
--  Responsible AI and governance frameworks
+- âœ… Generative AI design patterns and solution blueprints
+- âœ… AWS cloud services integration (Bedrock, SageMaker, Lambda)
+- âœ… MCP protocol implementation for agentic systems
+- âœ… Model selection and orchestration frameworks
+- âœ… System integration, APIs, and data pipelines
+- âœ… Responsible AI and governance frameworks
 
-## <â Enterprise Features
+## ğŸ¢ Enterprise Features
 
 - **Security**: End-to-end encryption, PII detection, access controls
 - **Scalability**: Auto-scaling, load balancing, performance optimization
@@ -75,10 +75,10 @@ This project covers essential enterprise AI architecture skills:
 - **Compliance**: SOC 2, GDPR, industry-specific regulations
 - **Cost Management**: Usage tracking, budget alerts, optimization
 
-## > Contributing
+## ğŸ¤ Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
 
-## =Ä License
+## ğŸ“„ License
 
 MIT License - see [LICENSE](LICENSE) for details.
